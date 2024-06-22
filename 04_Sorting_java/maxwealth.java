@@ -5,7 +5,7 @@ public class maxwealth {
                   {3,2,1}
         };
        // System.out.println(accounts);
-       System.out.println("hey user");
+       System.out.println("hey userss");
     }
     public int maximumwealth(int [][] accounts){
         int ans=Integer.MIN_VALUE;
