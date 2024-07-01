@@ -1,7 +1,7 @@
 public class Linears{
     public static void main(String[] args) {
         int [] nums ={1,2,3,4,5,6,-44};
-        int target =58;
+        int target =5;
         int ans =ls(nums,target);
         System.out.println(ans);
     }
